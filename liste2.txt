@@ -6,3 +6,5 @@ kaffe sukker
 sodavand
 chips 
 matadormix
+Bananer
+Æbler
